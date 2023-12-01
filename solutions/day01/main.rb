@@ -1,26 +1,11 @@
 #!/usr/bin/ruby
 
-M = {
-    'one' => ?1,
-    'two' => ?2,
-    'three' => ?3,
-    'four' => ?4,
-    'five' => ?5,
-    'six' => ?6,
-    'seven' => ?7,
-    'eight' => ?8,
-    'nine' => ?9,
-}
-
-def to_ii str
-    (M[str] || str).to_i
-end
+M = %w(one two three four five six seven eight nine).zip(?1..?9).to_h
 
 def line_scan str
-    (0...(str.length)).map do |i|
-        str[i..].scan(/^(one|two|three|four|five|six|seven|eight|nine|\d)/)
-            .flatten.map{ |x| to_ii x }
-    end.flatten
+    str.scan(/(?=(one|two|three|four|five|six|seven|eight|nine|\d))/)
+        .flatten
+        .map{ (M[_1] || _1).to_i }
 end
 
 DATA_ONE = File.read('data.txt')
