@@ -12,7 +12,7 @@ I'm using various languages to provide solutions.
 | 05 | [If You Give A Seed A Fertilizer][day05] | [:heavy_check_mark:](solutions/day05/main.rb) |  |
 | 06 | [Wait For It][day06] | [:heavy_check_mark:](solutions/day06/main.rb) |  |
 | 07 | [Camel Cards][day07] | [:heavy_check_mark:](solutions/day07/main.rb) |  |
-| 08 | [Haunted Wasteland][day08] | [:heavy_check_mark:](solutions/day08/main.rb) |  |
+| 08 | [Haunted Wasteland][day08] | [:heavy_check_mark:](solutions/day08/main.rb) | [:heavy_check_mark:](solutions/day08/main.cpp) |
 
 [day01]: https://adventofcode.com/2023/day/1
 [day02]: https://adventofcode.com/2023/day/2
@@ -25,4 +25,4 @@ I'm using various languages to provide solutions.
 
 [kq]: https://dev.krzaq.cc
 
-Readme generated on 2023-12-08 06:25:35 +0100
+Readme generated on 2023-12-08 19:25:58 +0100
