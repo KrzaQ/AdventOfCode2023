@@ -13,6 +13,7 @@ I'm using various languages to provide solutions.
 | 06 | [Wait For It][day06] | [:heavy_check_mark:](solutions/day06/main.rb) |  |
 | 07 | [Camel Cards][day07] | [:heavy_check_mark:](solutions/day07/main.rb) |  |
 | 08 | [Haunted Wasteland][day08] | [:heavy_check_mark:](solutions/day08/main.rb) | [:heavy_check_mark:](solutions/day08/main.cpp) |
+| 09 | [Mirage Maintenance][day09] | [:heavy_check_mark:](solutions/day09/main.rb) |  |
 
 [day01]: https://adventofcode.com/2023/day/1
 [day02]: https://adventofcode.com/2023/day/2
@@ -22,7 +23,8 @@ I'm using various languages to provide solutions.
 [day06]: https://adventofcode.com/2023/day/6
 [day07]: https://adventofcode.com/2023/day/7
 [day08]: https://adventofcode.com/2023/day/8
+[day09]: https://adventofcode.com/2023/day/9
 
 [kq]: https://dev.krzaq.cc
 
-Readme generated on 2023-12-08 19:25:58 +0100
+Readme generated on 2023-12-09 06:21:24 +0100
