@@ -93,6 +93,16 @@
             }
         ]
     },
+    "day10": {
+        "desc": "Pipe Maze",
+        "path": "solutions/day10",
+        "solutions": [
+            {
+                "language": "Ruby",
+                "path": "main.rb"
+            }
+        ]
+    },
     "ordering": [
         "Ruby", "C++"
     ]
