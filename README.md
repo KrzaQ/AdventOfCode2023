@@ -15,6 +15,7 @@ I'm using various languages to provide solutions.
 | 08 | [Haunted Wasteland][day08] | [:heavy_check_mark:](solutions/day08/main.rb) | [:heavy_check_mark:](solutions/day08/main.cpp) |
 | 09 | [Mirage Maintenance][day09] | [:heavy_check_mark:](solutions/day09/main.rb) |  |
 | 10 | [Pipe Maze][day10] | [:heavy_check_mark:](solutions/day10/main.rb) |  |
+| 11 | [Cosmic Expansion][day11] | [:heavy_check_mark:](solutions/day11/main.rb) |  |
 
 [day01]: https://adventofcode.com/2023/day/1
 [day02]: https://adventofcode.com/2023/day/2
@@ -26,7 +27,8 @@ I'm using various languages to provide solutions.
 [day08]: https://adventofcode.com/2023/day/8
 [day09]: https://adventofcode.com/2023/day/9
 [day10]: https://adventofcode.com/2023/day/10
+[day11]: https://adventofcode.com/2023/day/11
 
 [kq]: https://dev.krzaq.cc
 
-Readme generated on 2023-12-10 07:46:39 +0100
+Readme generated on 2023-12-11 06:21:09 +0100
