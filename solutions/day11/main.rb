@@ -37,4 +37,3 @@ end
 
 puts 'Part 1: %s' % sum_paths(1)
 puts 'Part 2: %s' % sum_paths(999999)
-
