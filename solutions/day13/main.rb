@@ -43,16 +43,17 @@ def all_values_with_one_bit_flipped pattern
     end.flatten(1)
 end
 
-PART1 = DATA.map { pattern_value _1.map(&:chars) }.sum
-
-PART2 = DATA.map do |data|
-    vals = all_values_with_one_bit_flipped(data.map(&:chars))
-    old_pval = pattern_value data.map(&:chars)
+def pattern_value_p2 pattern
+    vals = all_values_with_one_bit_flipped(pattern)
+    old_pval = pattern_value pattern
     pvals = vals.map do |pattern|
         pattern_value pattern, old_pval
     end.select(&:itself)
     pvals.find{ _1 != old_pval }
-end.sum
+end
+
+PART1 = DATA.map { pattern_value _1.map(&:chars) }.sum
+PART2 = DATA.map { pattern_value_p2 _1.map(&:chars) }.sum
 
 puts 'Part 1: %s' % PART1
 puts 'Part 2: %s' % PART2
