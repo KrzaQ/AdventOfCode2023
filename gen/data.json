@@ -123,6 +123,16 @@
             }
         ]
     },
+    "day13": {
+        "desc": "Point of Incidence",
+        "path": "solutions/day13",
+        "solutions": [
+            {
+                "language": "Ruby",
+                "path": "main.rb"
+            }
+        ]
+    },
     "ordering": [
         "Ruby", "C++"
     ]
