@@ -21,6 +21,7 @@ I'm using various languages to provide solutions.
 | 14 | [Parabolic Reflector Dish][day14] | [:heavy_check_mark:](solutions/day14/main.rb) |  |
 | 15 | [Lens Library][day15] | [:heavy_check_mark:](solutions/day15/main.rb) |  |
 | 16 | [The Floor Will Be Lava][day16] | [:heavy_check_mark:](solutions/day16/main.rb) |  |
+| 17 | [Clumsy Crucible][day17] | [:heavy_check_mark:](solutions/day17/main.rb) |  |
 
 [day01]: https://adventofcode.com/2023/day/1
 [day02]: https://adventofcode.com/2023/day/2
@@ -38,7 +39,8 @@ I'm using various languages to provide solutions.
 [day14]: https://adventofcode.com/2023/day/14
 [day15]: https://adventofcode.com/2023/day/15
 [day16]: https://adventofcode.com/2023/day/16
+[day17]: https://adventofcode.com/2023/day/17
 
 [kq]: https://dev.krzaq.cc
 
-Readme generated on 2023-12-16 06:38:47 +0100
+Readme generated on 2023-12-17 07:11:42 +0100
