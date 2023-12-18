@@ -173,6 +173,16 @@
             }
         ]
     },
+    "day18": {
+        "desc": "Lavaduct Lagoon",
+        "path": "solutions/day18",
+        "solutions": [
+            {
+                "language": "Ruby",
+                "path": "main.rb"
+            }
+        ]
+    },
     "ordering": [
         "Ruby", "C++"
     ]
