@@ -23,6 +23,7 @@ I'm using various languages to provide solutions.
 | 16 | [The Floor Will Be Lava][day16] | [:heavy_check_mark:](solutions/day16/main.rb) |  |
 | 17 | [Clumsy Crucible][day17] | [:heavy_check_mark:](solutions/day17/main.rb) |  |
 | 18 | [Lavaduct Lagoon][day18] | [:heavy_check_mark:](solutions/day18/main.rb) |  |
+| 19 | [Aplenty][day19] | [:heavy_check_mark:](solutions/day19/main.rb) |  |
 
 [day01]: https://adventofcode.com/2023/day/1
 [day02]: https://adventofcode.com/2023/day/2
@@ -42,7 +43,8 @@ I'm using various languages to provide solutions.
 [day16]: https://adventofcode.com/2023/day/16
 [day17]: https://adventofcode.com/2023/day/17
 [day18]: https://adventofcode.com/2023/day/18
+[day19]: https://adventofcode.com/2023/day/19
 
 [kq]: https://dev.krzaq.cc
 
-Readme generated on 2023-12-18 06:40:32 +0100
+Readme generated on 2023-12-19 08:05:02 +0100
